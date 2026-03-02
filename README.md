@@ -15,19 +15,18 @@
 
 
 ---
+ Task 2 – Student Dashboard (Data Retrieval & Sorting)
 
-# ✅ Task 2 – Student Dashboard (Data Retrieval & Sorting)
-
-### 🎯 Objective
+ ## Objective
 To display and manage stored student data with sorting and filtering options.
 
-### 🛠 Technologies Used
+ ## Technologies Used
 - PHP
 - MySQL
 - SQL (SELECT, ORDER BY, WHERE, GROUP BY)
 - HTML & CSS
 
-### 🚀 Features
+##  Features
 - Display all student records
 - Sort by Name
 - Sort by Date of Birth
